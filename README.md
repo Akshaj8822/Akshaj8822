@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Akshaj Dixit
 
 🎓 BITS Pilani Graduate — Dual Degree in **Computer Science** & **Mathematics**  
-💼 Backend Engineer @ **BlokTrek** | Ex-Intern @ **Synchrony Financial** & **NIGST Hyderabad**  
+💼 SDE-1 @ **PrivateBlok.ai** | Ex-Intern @ **Synchrony Financial** & **NIGST Hyderabad**  
 🚀 Backend Systems | Quant Modeling | Scalable APIs
 
 
